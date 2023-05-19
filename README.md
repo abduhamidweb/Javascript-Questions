@@ -2,6 +2,7 @@
 
 
 JavaScript nima?
+###
 JavaScript ni qanday ishlatish mumkin?
 JavaScriptni qaysi muhitda yozish mumkin?
 JavaScriptning sintaksi qanday?
